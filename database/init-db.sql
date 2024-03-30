@@ -5,7 +5,7 @@ CREATE TABLE IF NOT EXISTS tblbook (
 );
 
 INSERT INTO tblbook (title, author) VALUES
-  ('DevOps', 'MR. NAM'),
+  ('DevOps', 'MR. NA M 1'),
   ('Big Data', 'MR. NAM'),
   ('Cloud Deployement', 'MR. NAM'),
 ('Data Analysis', 'MR. NAM'),
